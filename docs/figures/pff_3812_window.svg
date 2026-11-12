@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1020" height="212" viewBox="0 0 1020 212" role="img" aria-labelledby="title description">
+<title id="title">Senegal – Netherlands</title>
+<desc id="description">Two aligned timelines show the PFF event-derived reference and the frozen AnkaraMessi prediction. Time is elapsed from the first frame of the half.</desc>
+<rect x="0" y="0" width="1020" height="212" fill="#ffffff"/>
+<g font-family="DejaVu Sans, Arial, sans-serif" fill="#202b38">
+<text x="24" y="37" font-size="24" font-weight="700">Senegal – Netherlands</text>
+<text x="24" y="60" font-size="14" fill="#455468">PFF World Cup 2022 · Match 3812 · Smoothed tracking · First half</text>
+<path d="M200.0 77 L200.0 127" stroke="#dbe2e9" fill="none"/>
+<path d="M358.0 77 L358.0 127" stroke="#dbe2e9" fill="none"/>
+<path d="M516.0 77 L516.0 127" stroke="#dbe2e9" fill="none"/>
+<path d="M674.0 77 L674.0 127" stroke="#dbe2e9" fill="none"/>
+<path d="M832.0 77 L832.0 127" stroke="#dbe2e9" fill="none"/>
+<path d="M990.0 77 L990.0 127" stroke="#dbe2e9" fill="none"/>
+<text x="24" y="93" font-size="14">PFF event reference</text>
+<rect x="200.000000" y="80" width="25.041708" height="17" fill="#e8a82f"/>
+<rect x="225.041708" y="80" width="30.577244" height="17" fill="#2469ac"/>
+<rect x="255.618952" y="80" width="26.535424" height="17" fill="#b43852"/>
+<rect x="282.154377" y="80" width="20.736292" height="17" fill="#e8a82f"/>
+<rect x="302.890668" y="80" width="104.560116" height="17" fill="#b43852"/>
+<rect x="407.450784" y="80" width="123.187632" height="17" fill="#e8a82f"/>
+<rect x="530.638416" y="80" width="7.995774" height="17" fill="#2469ac"/>
+<rect x="538.634190" y="80" width="7.468580" height="17" fill="#b43852"/>
+<rect x="546.102769" y="80" width="67.920142" height="17" fill="#2469ac"/>
+<rect x="614.022912" y="80" width="81.012123" height="17" fill="#e8a82f"/>
+<rect x="695.035035" y="80" width="14.409966" height="17" fill="#2469ac"/>
+<rect x="709.445001" y="80" width="45.514403" height="17" fill="#b43852"/>
+<rect x="754.959404" y="80" width="13.531309" height="17" fill="#e8a82f"/>
+<rect x="768.490713" y="80" width="41.648315" height="17" fill="#b43852"/>
+<rect x="810.139028" y="80" width="6.150595" height="17" fill="#2469ac"/>
+<rect x="816.289623" y="80" width="46.129463" height="17" fill="#e8a82f"/>
+<rect x="862.419086" y="80" width="42.526971" height="17" fill="#2469ac"/>
+<rect x="904.946057" y="80" width="42.439106" height="17" fill="#e8a82f"/>
+<rect x="947.385163" y="80" width="23.372261" height="17" fill="#2469ac"/>
+<rect x="970.757424" y="80" width="19.242576" height="17" fill="#b43852"/>
+<text x="24" y="116" font-size="14">AnkaraMessi</text>
+<rect x="200.000000" y="103" width="25.832499" height="17" fill="#e8a82f"/>
+<rect x="225.832499" y="103" width="30.577244" height="17" fill="#2469ac"/>
+<rect x="256.409743" y="103" width="26.359693" height="17" fill="#b43852"/>
+<rect x="282.769436" y="103" width="21.527083" height="17" fill="#e8a82f"/>
+<rect x="304.296519" y="103" width="90.589478" height="17" fill="#b43852"/>
+<rect x="394.885997" y="103" width="6.326326" height="17" fill="#e8a82f"/>
+<rect x="401.212323" y="103" width="6.326326" height="17" fill="#b43852"/>
+<rect x="407.538650" y="103" width="101.133356" height="17" fill="#e8a82f"/>
+<rect x="508.672005" y="103" width="108.514070" height="17" fill="#2469ac"/>
+<rect x="617.186075" y="103" width="78.464020" height="17" fill="#e8a82f"/>
+<rect x="695.650095" y="103" width="8.435102" height="17" fill="#2469ac"/>
+<rect x="704.085196" y="103" width="51.049939" height="17" fill="#b43852"/>
+<rect x="755.135135" y="103" width="13.707040" height="17" fill="#e8a82f"/>
+<rect x="768.842176" y="103" width="40.593927" height="17" fill="#b43852"/>
+<rect x="809.436103" y="103" width="28.380603" height="17" fill="#2469ac"/>
+<rect x="837.816706" y="103" width="45.865866" height="17" fill="#e8a82f"/>
+<rect x="883.682571" y="103" width="20.999889" height="17" fill="#2469ac"/>
+<rect x="904.682460" y="103" width="43.229897" height="17" fill="#e8a82f"/>
+<rect x="947.912357" y="103" width="22.669336" height="17" fill="#2469ac"/>
+<rect x="970.581693" y="103" width="19.418307" height="17" fill="#b43852"/>
+<path d="M200 127 L990 127" stroke="#9ba9b7" fill="none"/>
+<path d="M200.0 127 L200.0 131" stroke="#9ba9b7" fill="none"/>
+<text x="200.0" y="146" font-size="13" text-anchor="middle" fill="#455468">15:00</text>
+<path d="M358.0 127 L358.0 131" stroke="#9ba9b7" fill="none"/>
+<text x="358.0" y="146" font-size="13" text-anchor="middle" fill="#455468">16:00</text>
+<path d="M516.0 127 L516.0 131" stroke="#9ba9b7" fill="none"/>
+<text x="516.0" y="146" font-size="13" text-anchor="middle" fill="#455468">17:00</text>
+<path d="M674.0 127 L674.0 131" stroke="#9ba9b7" fill="none"/>
+<text x="674.0" y="146" font-size="13" text-anchor="middle" fill="#455468">18:00</text>
+<path d="M832.0 127 L832.0 131" stroke="#9ba9b7" fill="none"/>
+<text x="832.0" y="146" font-size="13" text-anchor="middle" fill="#455468">19:00</text>
+<path d="M990.0 127 L990.0 131" stroke="#9ba9b7" fill="none"/>
+<text x="990.0" y="146" font-size="13" text-anchor="middle" fill="#455468">20:00</text>
+<text x="595.0" y="166" font-size="13" text-anchor="middle" fill="#455468">Elapsed time in first half (mm:ss)</text>
+<rect x="24" y="180" width="14" height="14" fill="#2469ac"/>
+<text x="45" y="192" font-size="13">H  Home team</text>
+<rect x="178" y="180" width="14" height="14" fill="#b43852"/>
+<text x="199" y="192" font-size="13">A  Away team</text>
+<rect x="330" y="180" width="14" height="14" fill="#e8a82f"/>
+<text x="351" y="192" font-size="13">D  Dead ball</text>
+<rect x="467" y="180" width="14" height="14" fill="#bfc6ce"/>
+<text x="488" y="192" font-size="13">X  Unknown / excluded</text>
+</g>
+</svg>

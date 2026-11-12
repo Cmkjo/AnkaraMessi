@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1020" height="212" viewBox="0 0 1020 212" role="img" aria-labelledby="title description">
+<title id="title">England – Iran</title>
+<desc id="description">Two aligned timelines show the PFF event-derived reference and the frozen AnkaraMessi prediction. Time is elapsed from the first frame of the half.</desc>
+<rect x="0" y="0" width="1020" height="212" fill="#ffffff"/>
+<g font-family="DejaVu Sans, Arial, sans-serif" fill="#202b38">
+<text x="24" y="37" font-size="24" font-weight="700">England – Iran</text>
+<text x="24" y="60" font-size="14" fill="#455468">PFF World Cup 2022 · Match 3813 · Smoothed tracking · First half</text>
+<path d="M200.0 77 L200.0 127" stroke="#dbe2e9" fill="none"/>
+<path d="M358.0 77 L358.0 127" stroke="#dbe2e9" fill="none"/>
+<path d="M516.0 77 L516.0 127" stroke="#dbe2e9" fill="none"/>
+<path d="M674.0 77 L674.0 127" stroke="#dbe2e9" fill="none"/>
+<path d="M832.0 77 L832.0 127" stroke="#dbe2e9" fill="none"/>
+<path d="M990.0 77 L990.0 127" stroke="#dbe2e9" fill="none"/>
+<text x="24" y="93" font-size="14">PFF event reference</text>
+<rect x="200.000000" y="80" width="102.187743" height="17" fill="#e8a82f"/>
+<rect x="302.187743" y="80" width="8.435102" height="17" fill="#b43852"/>
+<rect x="310.622845" y="80" width="62.472472" height="17" fill="#2469ac"/>
+<rect x="373.095318" y="80" width="3.514626" height="17" fill="#b43852"/>
+<rect x="376.609943" y="80" width="493.804916" height="17" fill="#e8a82f"/>
+<rect x="870.414859" y="80" width="91.468135" height="17" fill="#2469ac"/>
+<rect x="961.882994" y="80" width="24.426649" height="17" fill="#b43852"/>
+<rect x="986.309643" y="80" width="3.690357" height="17" fill="#2469ac"/>
+<text x="24" y="116" font-size="14">AnkaraMessi</text>
+<rect x="200.000000" y="103" width="10.016683" height="17" fill="#e8a82f"/>
+<rect x="210.016683" y="103" width="7.907908" height="17" fill="#b43852"/>
+<rect x="217.924591" y="103" width="63.263263" height="17" fill="#e8a82f"/>
+<rect x="281.187855" y="103" width="8.874430" height="17" fill="#b43852"/>
+<rect x="290.062285" y="103" width="15.815816" height="17" fill="#e8a82f"/>
+<rect x="305.878100" y="103" width="71.083306" height="17" fill="#2469ac"/>
+<rect x="376.961406" y="103" width="94.807029" height="17" fill="#e8a82f"/>
+<rect x="471.768435" y="103" width="9.489489" height="17" fill="#b43852"/>
+<rect x="481.257925" y="103" width="382.391280" height="17" fill="#e8a82f"/>
+<rect x="863.649205" y="103" width="74.246469" height="17" fill="#2469ac"/>
+<rect x="937.895673" y="103" width="12.652653" height="17" fill="#b43852"/>
+<rect x="950.548326" y="103" width="12.125459" height="17" fill="#2469ac"/>
+<rect x="962.673785" y="103" width="23.723724" height="17" fill="#b43852"/>
+<rect x="986.397509" y="103" width="3.602491" height="17" fill="#2469ac"/>
+<path d="M200 127 L990 127" stroke="#9ba9b7" fill="none"/>
+<path d="M200.0 127 L200.0 131" stroke="#9ba9b7" fill="none"/>
+<text x="200.0" y="146" font-size="13" text-anchor="middle" fill="#455468">15:00</text>
+<path d="M358.0 127 L358.0 131" stroke="#9ba9b7" fill="none"/>
+<text x="358.0" y="146" font-size="13" text-anchor="middle" fill="#455468">16:00</text>
+<path d="M516.0 127 L516.0 131" stroke="#9ba9b7" fill="none"/>
+<text x="516.0" y="146" font-size="13" text-anchor="middle" fill="#455468">17:00</text>
+<path d="M674.0 127 L674.0 131" stroke="#9ba9b7" fill="none"/>
+<text x="674.0" y="146" font-size="13" text-anchor="middle" fill="#455468">18:00</text>
+<path d="M832.0 127 L832.0 131" stroke="#9ba9b7" fill="none"/>
+<text x="832.0" y="146" font-size="13" text-anchor="middle" fill="#455468">19:00</text>
+<path d="M990.0 127 L990.0 131" stroke="#9ba9b7" fill="none"/>
+<text x="990.0" y="146" font-size="13" text-anchor="middle" fill="#455468">20:00</text>
+<text x="595.0" y="166" font-size="13" text-anchor="middle" fill="#455468">Elapsed time in first half (mm:ss)</text>
+<rect x="24" y="180" width="14" height="14" fill="#2469ac"/>
+<text x="45" y="192" font-size="13">H  Home team</text>
+<rect x="178" y="180" width="14" height="14" fill="#b43852"/>
+<text x="199" y="192" font-size="13">A  Away team</text>
+<rect x="330" y="180" width="14" height="14" fill="#e8a82f"/>
+<text x="351" y="192" font-size="13">D  Dead ball</text>
+<rect x="467" y="180" width="14" height="14" fill="#bfc6ce"/>
+<text x="488" y="192" font-size="13">X  Unknown / excluded</text>
+</g>
+</svg>

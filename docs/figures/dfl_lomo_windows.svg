@@ -1,0 +1,385 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1020" height="636" viewBox="0 0 1020 636" role="img" aria-labelledby="title description">
+<title id="title">DFL · Leave-one-match-out validation</title>
+<desc id="description">Each panel aligns the provider reference, the clean AnkaraMessi prediction and the synthetic-dropout prediction from the corresponding held-out fold. Time is elapsed from the first frame of the half.</desc>
+<rect x="0" y="0" width="1020" height="636" fill="#ffffff"/>
+<g font-family="DejaVu Sans, Arial, sans-serif" fill="#202b38">
+<text x="24" y="37" font-size="24" font-weight="700">DFL · Leave-one-match-out validation</text>
+<text x="24" y="60" font-size="14" fill="#455468">Four held-out matches · First half · Clean tracking and synthetic dropout</text>
+<text x="24" y="94" font-size="16" font-weight="700">J03WOH  ·  Fortuna Düsseldorf – Jahn Regensburg</text>
+<path d="M200.0 102 L200.0 175" stroke="#dbe2e9" fill="none"/>
+<path d="M358.0 102 L358.0 175" stroke="#dbe2e9" fill="none"/>
+<path d="M516.0 102 L516.0 175" stroke="#dbe2e9" fill="none"/>
+<path d="M674.0 102 L674.0 175" stroke="#dbe2e9" fill="none"/>
+<path d="M832.0 102 L832.0 175" stroke="#dbe2e9" fill="none"/>
+<path d="M990.0 102 L990.0 175" stroke="#dbe2e9" fill="none"/>
+<text x="24" y="118" font-size="14">DFL reference</text>
+<rect x="200.000000" y="105" width="31.916000" height="17" fill="#2469ac"/>
+<rect x="231.916000" y="105" width="0.316000" height="17" fill="#b43852"/>
+<rect x="232.232000" y="105" width="27.492000" height="17" fill="#2469ac"/>
+<rect x="259.724000" y="105" width="8.953333" height="17" fill="#b43852"/>
+<rect x="268.677333" y="105" width="16.853333" height="17" fill="#2469ac"/>
+<rect x="285.530667" y="105" width="112.285333" height="17" fill="#e8a82f"/>
+<rect x="397.816000" y="105" width="6.636000" height="17" fill="#2469ac"/>
+<rect x="404.452000" y="105" width="80.369333" height="17" fill="#e8a82f"/>
+<rect x="484.821333" y="105" width="17.696000" height="17" fill="#b43852"/>
+<rect x="502.517333" y="105" width="2.001333" height="17" fill="#2469ac"/>
+<rect x="504.518667" y="105" width="7.162667" height="17" fill="#b43852"/>
+<rect x="511.681333" y="105" width="60.145333" height="17" fill="#2469ac"/>
+<rect x="571.826667" y="105" width="10.428000" height="17" fill="#b43852"/>
+<rect x="582.254667" y="105" width="35.392000" height="17" fill="#2469ac"/>
+<rect x="617.646667" y="105" width="76.472000" height="17" fill="#e8a82f"/>
+<rect x="694.118667" y="105" width="9.690667" height="17" fill="#b43852"/>
+<rect x="703.809333" y="105" width="5.688000" height="17" fill="#2469ac"/>
+<rect x="709.497333" y="105" width="4.108000" height="17" fill="#b43852"/>
+<rect x="713.605333" y="105" width="61.093333" height="17" fill="#2469ac"/>
+<rect x="774.698667" y="105" width="0.316000" height="17" fill="#b43852"/>
+<rect x="775.014667" y="105" width="3.054667" height="17" fill="#2469ac"/>
+<rect x="778.069333" y="105" width="39.605333" height="17" fill="#e8a82f"/>
+<rect x="817.674667" y="105" width="11.586667" height="17" fill="#2469ac"/>
+<rect x="829.261333" y="105" width="7.162667" height="17" fill="#b43852"/>
+<rect x="836.424000" y="105" width="10.533333" height="17" fill="#2469ac"/>
+<rect x="846.957333" y="105" width="9.585333" height="17" fill="#b43852"/>
+<rect x="856.542667" y="105" width="51.192000" height="17" fill="#e8a82f"/>
+<rect x="907.734667" y="105" width="10.849333" height="17" fill="#2469ac"/>
+<rect x="918.584000" y="105" width="9.901333" height="17" fill="#b43852"/>
+<rect x="928.485333" y="105" width="15.694667" height="17" fill="#2469ac"/>
+<rect x="944.180000" y="105" width="10.112000" height="17" fill="#b43852"/>
+<rect x="954.292000" y="105" width="4.318667" height="17" fill="#2469ac"/>
+<rect x="958.610667" y="105" width="12.850667" height="17" fill="#b43852"/>
+<rect x="971.461333" y="105" width="1.685333" height="17" fill="#2469ac"/>
+<rect x="973.146667" y="105" width="16.853333" height="17" fill="#e8a82f"/>
+<text x="24" y="141" font-size="14">AnkaraMessi · clean</text>
+<rect x="200.000000" y="128" width="61.620000" height="17" fill="#2469ac"/>
+<rect x="261.620000" y="128" width="10.533333" height="17" fill="#b43852"/>
+<rect x="272.153333" y="128" width="13.693333" height="17" fill="#2469ac"/>
+<rect x="285.846667" y="128" width="112.180000" height="17" fill="#e8a82f"/>
+<rect x="398.026667" y="128" width="6.846667" height="17" fill="#2469ac"/>
+<rect x="404.873333" y="128" width="80.580000" height="17" fill="#e8a82f"/>
+<rect x="485.453333" y="128" width="27.386667" height="17" fill="#b43852"/>
+<rect x="512.840000" y="128" width="56.353333" height="17" fill="#2469ac"/>
+<rect x="569.193333" y="128" width="7.900000" height="17" fill="#b43852"/>
+<rect x="577.093333" y="128" width="27.386667" height="17" fill="#2469ac"/>
+<rect x="604.480000" y="128" width="13.166667" height="17" fill="#b43852"/>
+<rect x="617.646667" y="128" width="76.893333" height="17" fill="#e8a82f"/>
+<rect x="694.540000" y="128" width="9.480000" height="17" fill="#b43852"/>
+<rect x="704.020000" y="128" width="74.260000" height="17" fill="#2469ac"/>
+<rect x="778.280000" y="128" width="39.500000" height="17" fill="#e8a82f"/>
+<rect x="817.780000" y="128" width="38.973333" height="17" fill="#2469ac"/>
+<rect x="856.753333" y="128" width="51.086667" height="17" fill="#e8a82f"/>
+<rect x="907.840000" y="128" width="37.920000" height="17" fill="#2469ac"/>
+<rect x="945.760000" y="128" width="24.753333" height="17" fill="#b43852"/>
+<rect x="970.513333" y="128" width="2.633333" height="17" fill="#2469ac"/>
+<rect x="973.146667" y="128" width="16.853333" height="17" fill="#e8a82f"/>
+<text x="24" y="164" font-size="14">AnkaraMessi · dropout</text>
+<rect x="200.000000" y="151" width="60.566667" height="17" fill="#2469ac"/>
+<rect x="260.566667" y="151" width="11.586667" height="17" fill="#b43852"/>
+<rect x="272.153333" y="151" width="13.693333" height="17" fill="#2469ac"/>
+<rect x="285.846667" y="151" width="117.973333" height="17" fill="#e8a82f"/>
+<rect x="403.820000" y="151" width="1.053333" height="17" fill="#b43852"/>
+<rect x="404.873333" y="151" width="84.266667" height="17" fill="#e8a82f"/>
+<rect x="489.140000" y="151" width="23.700000" height="17" fill="#b43852"/>
+<rect x="512.840000" y="151" width="56.353333" height="17" fill="#2469ac"/>
+<rect x="569.193333" y="151" width="7.900000" height="17" fill="#b43852"/>
+<rect x="577.093333" y="151" width="27.386667" height="17" fill="#2469ac"/>
+<rect x="604.480000" y="151" width="13.166667" height="17" fill="#b43852"/>
+<rect x="617.646667" y="151" width="76.893333" height="17" fill="#e8a82f"/>
+<rect x="694.540000" y="151" width="9.480000" height="17" fill="#b43852"/>
+<rect x="704.020000" y="151" width="74.786667" height="17" fill="#2469ac"/>
+<rect x="778.806667" y="151" width="38.973333" height="17" fill="#e8a82f"/>
+<rect x="817.780000" y="151" width="28.966667" height="17" fill="#2469ac"/>
+<rect x="846.746667" y="151" width="61.093333" height="17" fill="#e8a82f"/>
+<rect x="907.840000" y="151" width="37.920000" height="17" fill="#2469ac"/>
+<rect x="945.760000" y="151" width="24.753333" height="17" fill="#b43852"/>
+<rect x="970.513333" y="151" width="7.900000" height="17" fill="#2469ac"/>
+<rect x="978.413333" y="151" width="11.586667" height="17" fill="#e8a82f"/>
+<path d="M200 175 L990 175" stroke="#9ba9b7" fill="none"/>
+<path d="M200.0 175 L200.0 179" stroke="#9ba9b7" fill="none"/>
+<text x="200.0" y="194" font-size="13" text-anchor="middle" fill="#455468">15:00</text>
+<path d="M358.0 175 L358.0 179" stroke="#9ba9b7" fill="none"/>
+<text x="358.0" y="194" font-size="13" text-anchor="middle" fill="#455468">16:00</text>
+<path d="M516.0 175 L516.0 179" stroke="#9ba9b7" fill="none"/>
+<text x="516.0" y="194" font-size="13" text-anchor="middle" fill="#455468">17:00</text>
+<path d="M674.0 175 L674.0 179" stroke="#9ba9b7" fill="none"/>
+<text x="674.0" y="194" font-size="13" text-anchor="middle" fill="#455468">18:00</text>
+<path d="M832.0 175 L832.0 179" stroke="#9ba9b7" fill="none"/>
+<text x="832.0" y="194" font-size="13" text-anchor="middle" fill="#455468">19:00</text>
+<path d="M990.0 175 L990.0 179" stroke="#9ba9b7" fill="none"/>
+<text x="990.0" y="194" font-size="13" text-anchor="middle" fill="#455468">20:00</text>
+<text x="24" y="218" font-size="16" font-weight="700">J03WOY  ·  Fortuna Düsseldorf – Hansa Rostock</text>
+<path d="M200.0 226 L200.0 299" stroke="#dbe2e9" fill="none"/>
+<path d="M358.0 226 L358.0 299" stroke="#dbe2e9" fill="none"/>
+<path d="M516.0 226 L516.0 299" stroke="#dbe2e9" fill="none"/>
+<path d="M674.0 226 L674.0 299" stroke="#dbe2e9" fill="none"/>
+<path d="M832.0 226 L832.0 299" stroke="#dbe2e9" fill="none"/>
+<path d="M990.0 226 L990.0 299" stroke="#dbe2e9" fill="none"/>
+<text x="24" y="242" font-size="14">DFL reference</text>
+<rect x="200.000000" y="229" width="97.538667" height="17" fill="#e8a82f"/>
+<rect x="297.538667" y="229" width="8.742667" height="17" fill="#2469ac"/>
+<rect x="306.281333" y="229" width="0.421333" height="17" fill="#b43852"/>
+<rect x="306.702667" y="229" width="4.318667" height="17" fill="#2469ac"/>
+<rect x="311.021333" y="229" width="8.005333" height="17" fill="#b43852"/>
+<rect x="319.026667" y="229" width="2.212000" height="17" fill="#2469ac"/>
+<rect x="321.238667" y="229" width="8.953333" height="17" fill="#e8a82f"/>
+<rect x="330.192000" y="229" width="84.056000" height="17" fill="#b43852"/>
+<rect x="414.248000" y="229" width="12.324000" height="17" fill="#2469ac"/>
+<rect x="426.572000" y="229" width="10.112000" height="17" fill="#b43852"/>
+<rect x="436.684000" y="229" width="2.106667" height="17" fill="#2469ac"/>
+<rect x="438.790667" y="229" width="113.865333" height="17" fill="#e8a82f"/>
+<rect x="552.656000" y="229" width="34.654667" height="17" fill="#b43852"/>
+<rect x="587.310667" y="229" width="50.665333" height="17" fill="#e8a82f"/>
+<rect x="637.976000" y="229" width="5.688000" height="17" fill="#2469ac"/>
+<rect x="643.664000" y="229" width="13.693333" height="17" fill="#b43852"/>
+<rect x="657.357333" y="229" width="3.476000" height="17" fill="#2469ac"/>
+<rect x="660.833333" y="229" width="2.001333" height="17" fill="#b43852"/>
+<rect x="662.834667" y="229" width="22.857333" height="17" fill="#2469ac"/>
+<rect x="685.692000" y="229" width="2.317333" height="17" fill="#b43852"/>
+<rect x="688.009333" y="229" width="4.950667" height="17" fill="#e8a82f"/>
+<rect x="692.960000" y="229" width="30.546667" height="17" fill="#b43852"/>
+<rect x="723.506667" y="229" width="7.584000" height="17" fill="#e8a82f"/>
+<rect x="731.090667" y="229" width="69.836000" height="17" fill="#2469ac"/>
+<rect x="800.926667" y="229" width="2.844000" height="17" fill="#b43852"/>
+<rect x="803.770667" y="229" width="1.264000" height="17" fill="#2469ac"/>
+<rect x="805.034667" y="229" width="63.516000" height="17" fill="#e8a82f"/>
+<rect x="868.550667" y="229" width="9.690667" height="17" fill="#b43852"/>
+<rect x="878.241333" y="229" width="111.758667" height="17" fill="#e8a82f"/>
+<text x="24" y="265" font-size="14">AnkaraMessi · clean</text>
+<rect x="200.000000" y="252" width="97.960000" height="17" fill="#e8a82f"/>
+<rect x="297.960000" y="252" width="6.320000" height="17" fill="#2469ac"/>
+<rect x="304.280000" y="252" width="17.380000" height="17" fill="#b43852"/>
+<rect x="321.660000" y="252" width="8.953333" height="17" fill="#e8a82f"/>
+<rect x="330.613333" y="252" width="81.106667" height="17" fill="#b43852"/>
+<rect x="411.720000" y="252" width="27.386667" height="17" fill="#2469ac"/>
+<rect x="439.106667" y="252" width="113.760000" height="17" fill="#e8a82f"/>
+<rect x="552.866667" y="252" width="34.760000" height="17" fill="#b43852"/>
+<rect x="587.626667" y="252" width="50.560000" height="17" fill="#e8a82f"/>
+<rect x="638.186667" y="252" width="6.846667" height="17" fill="#2469ac"/>
+<rect x="645.033333" y="252" width="11.586667" height="17" fill="#b43852"/>
+<rect x="656.620000" y="252" width="23.173333" height="17" fill="#2469ac"/>
+<rect x="679.793333" y="252" width="8.426667" height="17" fill="#b43852"/>
+<rect x="688.220000" y="252" width="4.740000" height="17" fill="#e8a82f"/>
+<rect x="692.960000" y="252" width="30.546667" height="17" fill="#b43852"/>
+<rect x="723.506667" y="252" width="7.900000" height="17" fill="#e8a82f"/>
+<rect x="731.406667" y="252" width="58.986667" height="17" fill="#2469ac"/>
+<rect x="790.393333" y="252" width="14.746667" height="17" fill="#b43852"/>
+<rect x="805.140000" y="252" width="63.726667" height="17" fill="#e8a82f"/>
+<rect x="868.866667" y="252" width="9.480000" height="17" fill="#b43852"/>
+<rect x="878.346667" y="252" width="111.653333" height="17" fill="#e8a82f"/>
+<text x="24" y="288" font-size="14">AnkaraMessi · dropout</text>
+<rect x="200.000000" y="275" width="98.486667" height="17" fill="#e8a82f"/>
+<rect x="298.486667" y="275" width="25.280000" height="17" fill="#2469ac"/>
+<rect x="323.766667" y="275" width="6.846667" height="17" fill="#e8a82f"/>
+<rect x="330.613333" y="275" width="81.106667" height="17" fill="#b43852"/>
+<rect x="411.720000" y="275" width="26.860000" height="17" fill="#2469ac"/>
+<rect x="438.580000" y="275" width="113.233333" height="17" fill="#e8a82f"/>
+<rect x="551.813333" y="275" width="35.813333" height="17" fill="#b43852"/>
+<rect x="587.626667" y="275" width="81.106667" height="17" fill="#e8a82f"/>
+<rect x="668.733333" y="275" width="19.486667" height="17" fill="#2469ac"/>
+<rect x="688.220000" y="275" width="4.740000" height="17" fill="#e8a82f"/>
+<rect x="692.960000" y="275" width="38.973333" height="17" fill="#b43852"/>
+<rect x="731.933333" y="275" width="61.620000" height="17" fill="#2469ac"/>
+<rect x="793.553333" y="275" width="8.426667" height="17" fill="#b43852"/>
+<rect x="801.980000" y="275" width="188.020000" height="17" fill="#e8a82f"/>
+<path d="M200 299 L990 299" stroke="#9ba9b7" fill="none"/>
+<path d="M200.0 299 L200.0 303" stroke="#9ba9b7" fill="none"/>
+<text x="200.0" y="318" font-size="13" text-anchor="middle" fill="#455468">15:00</text>
+<path d="M358.0 299 L358.0 303" stroke="#9ba9b7" fill="none"/>
+<text x="358.0" y="318" font-size="13" text-anchor="middle" fill="#455468">16:00</text>
+<path d="M516.0 299 L516.0 303" stroke="#9ba9b7" fill="none"/>
+<text x="516.0" y="318" font-size="13" text-anchor="middle" fill="#455468">17:00</text>
+<path d="M674.0 299 L674.0 303" stroke="#9ba9b7" fill="none"/>
+<text x="674.0" y="318" font-size="13" text-anchor="middle" fill="#455468">18:00</text>
+<path d="M832.0 299 L832.0 303" stroke="#9ba9b7" fill="none"/>
+<text x="832.0" y="318" font-size="13" text-anchor="middle" fill="#455468">19:00</text>
+<path d="M990.0 299 L990.0 303" stroke="#9ba9b7" fill="none"/>
+<text x="990.0" y="318" font-size="13" text-anchor="middle" fill="#455468">20:00</text>
+<text x="24" y="342" font-size="16" font-weight="700">J03WPY  ·  Fortuna Düsseldorf – 1. FC Nürnberg</text>
+<path d="M200.0 350 L200.0 423" stroke="#dbe2e9" fill="none"/>
+<path d="M358.0 350 L358.0 423" stroke="#dbe2e9" fill="none"/>
+<path d="M516.0 350 L516.0 423" stroke="#dbe2e9" fill="none"/>
+<path d="M674.0 350 L674.0 423" stroke="#dbe2e9" fill="none"/>
+<path d="M832.0 350 L832.0 423" stroke="#dbe2e9" fill="none"/>
+<path d="M990.0 350 L990.0 423" stroke="#dbe2e9" fill="none"/>
+<text x="24" y="366" font-size="14">DFL reference</text>
+<rect x="200.000000" y="353" width="28.966667" height="17" fill="#2469ac"/>
+<rect x="228.966667" y="353" width="64.780000" height="17" fill="#e8a82f"/>
+<rect x="293.746667" y="353" width="68.045333" height="17" fill="#b43852"/>
+<rect x="361.792000" y="353" width="6.425333" height="17" fill="#2469ac"/>
+<rect x="368.217333" y="353" width="6.425333" height="17" fill="#b43852"/>
+<rect x="374.642667" y="353" width="5.477333" height="17" fill="#2469ac"/>
+<rect x="380.120000" y="353" width="24.226667" height="17" fill="#b43852"/>
+<rect x="404.346667" y="353" width="2.212000" height="17" fill="#2469ac"/>
+<rect x="406.558667" y="353" width="0.316000" height="17" fill="#b43852"/>
+<rect x="406.874667" y="353" width="3.897333" height="17" fill="#2469ac"/>
+<rect x="410.772000" y="353" width="92.272000" height="17" fill="#e8a82f"/>
+<rect x="503.044000" y="353" width="3.476000" height="17" fill="#b43852"/>
+<rect x="506.520000" y="353" width="2.528000" height="17" fill="#2469ac"/>
+<rect x="509.048000" y="353" width="3.160000" height="17" fill="#b43852"/>
+<rect x="512.208000" y="353" width="2.738667" height="17" fill="#2469ac"/>
+<rect x="514.946667" y="353" width="16.853333" height="17" fill="#e8a82f"/>
+<rect x="531.800000" y="353" width="8.426667" height="17" fill="#2469ac"/>
+<rect x="540.226667" y="353" width="84.477333" height="17" fill="#b43852"/>
+<rect x="624.704000" y="353" width="18.117333" height="17" fill="#2469ac"/>
+<rect x="642.821333" y="353" width="79.210667" height="17" fill="#e8a82f"/>
+<rect x="722.032000" y="353" width="17.169333" height="17" fill="#b43852"/>
+<rect x="739.201333" y="353" width="66.781333" height="17" fill="#2469ac"/>
+<rect x="805.982667" y="353" width="1.264000" height="17" fill="#b43852"/>
+<rect x="807.246667" y="353" width="13.904000" height="17" fill="#2469ac"/>
+<rect x="821.150667" y="353" width="9.796000" height="17" fill="#b43852"/>
+<rect x="830.946667" y="353" width="12.745333" height="17" fill="#2469ac"/>
+<rect x="843.692000" y="353" width="14.746667" height="17" fill="#e8a82f"/>
+<rect x="858.438667" y="353" width="10.006667" height="17" fill="#b43852"/>
+<rect x="868.445333" y="353" width="10.217333" height="17" fill="#2469ac"/>
+<rect x="878.662667" y="353" width="12.324000" height="17" fill="#b43852"/>
+<rect x="890.986667" y="353" width="97.644000" height="17" fill="#2469ac"/>
+<rect x="988.630667" y="353" width="1.369333" height="17" fill="#e8a82f"/>
+<text x="24" y="389" font-size="14">AnkaraMessi · clean</text>
+<rect x="200.000000" y="376" width="28.966667" height="17" fill="#2469ac"/>
+<rect x="228.966667" y="376" width="64.780000" height="17" fill="#e8a82f"/>
+<rect x="293.746667" y="376" width="63.726667" height="17" fill="#b43852"/>
+<rect x="357.473333" y="376" width="10.533333" height="17" fill="#2469ac"/>
+<rect x="368.006667" y="376" width="39.500000" height="17" fill="#b43852"/>
+<rect x="407.506667" y="376" width="3.686667" height="17" fill="#2469ac"/>
+<rect x="411.193333" y="376" width="92.166667" height="17" fill="#e8a82f"/>
+<rect x="503.360000" y="376" width="11.586667" height="17" fill="#b43852"/>
+<rect x="514.946667" y="376" width="16.853333" height="17" fill="#e8a82f"/>
+<rect x="531.800000" y="376" width="5.266667" height="17" fill="#2469ac"/>
+<rect x="537.066667" y="376" width="81.106667" height="17" fill="#b43852"/>
+<rect x="618.173333" y="376" width="24.753333" height="17" fill="#2469ac"/>
+<rect x="642.926667" y="376" width="79.526667" height="17" fill="#e8a82f"/>
+<rect x="722.453333" y="376" width="12.113333" height="17" fill="#b43852"/>
+<rect x="734.566667" y="376" width="74.786667" height="17" fill="#2469ac"/>
+<rect x="809.353333" y="376" width="15.273333" height="17" fill="#b43852"/>
+<rect x="824.626667" y="376" width="19.486667" height="17" fill="#2469ac"/>
+<rect x="844.113333" y="376" width="14.746667" height="17" fill="#e8a82f"/>
+<rect x="858.860000" y="376" width="30.020000" height="17" fill="#b43852"/>
+<rect x="888.880000" y="376" width="100.066667" height="17" fill="#2469ac"/>
+<rect x="988.946667" y="376" width="1.053333" height="17" fill="#e8a82f"/>
+<text x="24" y="412" font-size="14">AnkaraMessi · dropout</text>
+<rect x="200.000000" y="399" width="30.546667" height="17" fill="#2469ac"/>
+<rect x="230.546667" y="399" width="63.200000" height="17" fill="#e8a82f"/>
+<rect x="293.746667" y="399" width="63.726667" height="17" fill="#b43852"/>
+<rect x="357.473333" y="399" width="10.533333" height="17" fill="#2469ac"/>
+<rect x="368.006667" y="399" width="41.606667" height="17" fill="#b43852"/>
+<rect x="409.613333" y="399" width="92.693333" height="17" fill="#e8a82f"/>
+<rect x="502.306667" y="399" width="12.640000" height="17" fill="#b43852"/>
+<rect x="514.946667" y="399" width="14.746667" height="17" fill="#e8a82f"/>
+<rect x="529.693333" y="399" width="8.953333" height="17" fill="#2469ac"/>
+<rect x="538.646667" y="399" width="18.433333" height="17" fill="#b43852"/>
+<rect x="557.080000" y="399" width="19.486667" height="17" fill="#e8a82f"/>
+<rect x="576.566667" y="399" width="41.606667" height="17" fill="#b43852"/>
+<rect x="618.173333" y="399" width="24.753333" height="17" fill="#2469ac"/>
+<rect x="642.926667" y="399" width="92.693333" height="17" fill="#e8a82f"/>
+<rect x="735.620000" y="399" width="73.733333" height="17" fill="#2469ac"/>
+<rect x="809.353333" y="399" width="15.273333" height="17" fill="#b43852"/>
+<rect x="824.626667" y="399" width="19.486667" height="17" fill="#2469ac"/>
+<rect x="844.113333" y="399" width="14.746667" height="17" fill="#e8a82f"/>
+<rect x="858.860000" y="399" width="31.073333" height="17" fill="#b43852"/>
+<rect x="889.933333" y="399" width="4.740000" height="17" fill="#2469ac"/>
+<rect x="894.673333" y="399" width="7.900000" height="17" fill="#b43852"/>
+<rect x="902.573333" y="399" width="85.846667" height="17" fill="#2469ac"/>
+<rect x="988.420000" y="399" width="1.580000" height="17" fill="#e8a82f"/>
+<path d="M200 423 L990 423" stroke="#9ba9b7" fill="none"/>
+<path d="M200.0 423 L200.0 427" stroke="#9ba9b7" fill="none"/>
+<text x="200.0" y="442" font-size="13" text-anchor="middle" fill="#455468">15:00</text>
+<path d="M358.0 423 L358.0 427" stroke="#9ba9b7" fill="none"/>
+<text x="358.0" y="442" font-size="13" text-anchor="middle" fill="#455468">16:00</text>
+<path d="M516.0 423 L516.0 427" stroke="#9ba9b7" fill="none"/>
+<text x="516.0" y="442" font-size="13" text-anchor="middle" fill="#455468">17:00</text>
+<path d="M674.0 423 L674.0 427" stroke="#9ba9b7" fill="none"/>
+<text x="674.0" y="442" font-size="13" text-anchor="middle" fill="#455468">18:00</text>
+<path d="M832.0 423 L832.0 427" stroke="#9ba9b7" fill="none"/>
+<text x="832.0" y="442" font-size="13" text-anchor="middle" fill="#455468">19:00</text>
+<path d="M990.0 423 L990.0 427" stroke="#9ba9b7" fill="none"/>
+<text x="990.0" y="442" font-size="13" text-anchor="middle" fill="#455468">20:00</text>
+<text x="24" y="466" font-size="16" font-weight="700">J03WQQ  ·  Fortuna Düsseldorf – FC St. Pauli</text>
+<path d="M200.0 474 L200.0 547" stroke="#dbe2e9" fill="none"/>
+<path d="M358.0 474 L358.0 547" stroke="#dbe2e9" fill="none"/>
+<path d="M516.0 474 L516.0 547" stroke="#dbe2e9" fill="none"/>
+<path d="M674.0 474 L674.0 547" stroke="#dbe2e9" fill="none"/>
+<path d="M832.0 474 L832.0 547" stroke="#dbe2e9" fill="none"/>
+<path d="M990.0 474 L990.0 547" stroke="#dbe2e9" fill="none"/>
+<text x="24" y="490" font-size="14">DFL reference</text>
+<rect x="200.000000" y="477" width="26.649333" height="17" fill="#e8a82f"/>
+<rect x="226.649333" y="477" width="86.689333" height="17" fill="#2469ac"/>
+<rect x="313.338667" y="477" width="57.933333" height="17" fill="#e8a82f"/>
+<rect x="371.272000" y="477" width="17.274667" height="17" fill="#b43852"/>
+<rect x="388.546667" y="477" width="4.002667" height="17" fill="#2469ac"/>
+<rect x="392.549333" y="477" width="81.317333" height="17" fill="#e8a82f"/>
+<rect x="473.866667" y="477" width="27.386667" height="17" fill="#2469ac"/>
+<rect x="501.253333" y="477" width="3.054667" height="17" fill="#b43852"/>
+<rect x="504.308000" y="477" width="21.172000" height="17" fill="#2469ac"/>
+<rect x="525.480000" y="477" width="71.100000" height="17" fill="#e8a82f"/>
+<rect x="596.580000" y="477" width="16.221333" height="17" fill="#b43852"/>
+<rect x="612.801333" y="477" width="7.794667" height="17" fill="#2469ac"/>
+<rect x="620.596000" y="477" width="31.073333" height="17" fill="#e8a82f"/>
+<rect x="651.669333" y="477" width="27.176000" height="17" fill="#b43852"/>
+<rect x="678.845333" y="477" width="69.836000" height="17" fill="#2469ac"/>
+<rect x="748.681333" y="477" width="60.461333" height="17" fill="#b43852"/>
+<rect x="809.142667" y="477" width="33.390667" height="17" fill="#2469ac"/>
+<rect x="842.533333" y="477" width="6.004000" height="17" fill="#b43852"/>
+<rect x="848.537333" y="477" width="31.494667" height="17" fill="#2469ac"/>
+<rect x="880.032000" y="477" width="5.477333" height="17" fill="#b43852"/>
+<rect x="885.509333" y="477" width="37.393333" height="17" fill="#2469ac"/>
+<rect x="922.902667" y="477" width="22.330667" height="17" fill="#b43852"/>
+<rect x="945.233333" y="477" width="44.766667" height="17" fill="#2469ac"/>
+<text x="24" y="513" font-size="14">AnkaraMessi · clean</text>
+<rect x="200.000000" y="500" width="26.860000" height="17" fill="#e8a82f"/>
+<rect x="226.860000" y="500" width="86.900000" height="17" fill="#2469ac"/>
+<rect x="313.760000" y="500" width="57.933333" height="17" fill="#e8a82f"/>
+<rect x="371.693333" y="500" width="14.746667" height="17" fill="#b43852"/>
+<rect x="386.440000" y="500" width="6.320000" height="17" fill="#2469ac"/>
+<rect x="392.760000" y="500" width="81.106667" height="17" fill="#e8a82f"/>
+<rect x="473.866667" y="500" width="51.613333" height="17" fill="#2469ac"/>
+<rect x="525.480000" y="500" width="71.100000" height="17" fill="#e8a82f"/>
+<rect x="596.580000" y="500" width="24.226667" height="17" fill="#b43852"/>
+<rect x="620.806667" y="500" width="31.073333" height="17" fill="#e8a82f"/>
+<rect x="651.880000" y="500" width="26.333333" height="17" fill="#b43852"/>
+<rect x="678.213333" y="500" width="70.573333" height="17" fill="#2469ac"/>
+<rect x="748.786667" y="500" width="53.720000" height="17" fill="#b43852"/>
+<rect x="802.506667" y="500" width="121.133333" height="17" fill="#2469ac"/>
+<rect x="923.640000" y="500" width="21.593333" height="17" fill="#b43852"/>
+<rect x="945.233333" y="500" width="44.766667" height="17" fill="#2469ac"/>
+<text x="24" y="536" font-size="14">AnkaraMessi · dropout</text>
+<rect x="200.000000" y="523" width="26.860000" height="17" fill="#e8a82f"/>
+<rect x="226.860000" y="523" width="88.480000" height="17" fill="#2469ac"/>
+<rect x="315.340000" y="523" width="56.353333" height="17" fill="#e8a82f"/>
+<rect x="371.693333" y="523" width="14.746667" height="17" fill="#b43852"/>
+<rect x="386.440000" y="523" width="25.280000" height="17" fill="#2469ac"/>
+<rect x="411.720000" y="523" width="62.146667" height="17" fill="#e8a82f"/>
+<rect x="473.866667" y="523" width="51.613333" height="17" fill="#2469ac"/>
+<rect x="525.480000" y="523" width="71.100000" height="17" fill="#e8a82f"/>
+<rect x="596.580000" y="523" width="24.226667" height="17" fill="#b43852"/>
+<rect x="620.806667" y="523" width="31.073333" height="17" fill="#e8a82f"/>
+<rect x="651.880000" y="523" width="21.593333" height="17" fill="#b43852"/>
+<rect x="673.473333" y="523" width="7.373333" height="17" fill="#e8a82f"/>
+<rect x="680.846667" y="523" width="67.940000" height="17" fill="#2469ac"/>
+<rect x="748.786667" y="523" width="25.280000" height="17" fill="#b43852"/>
+<rect x="774.066667" y="523" width="13.166667" height="17" fill="#e8a82f"/>
+<rect x="787.233333" y="523" width="15.273333" height="17" fill="#b43852"/>
+<rect x="802.506667" y="523" width="121.133333" height="17" fill="#2469ac"/>
+<rect x="923.640000" y="523" width="33.180000" height="17" fill="#b43852"/>
+<rect x="956.820000" y="523" width="33.180000" height="17" fill="#2469ac"/>
+<path d="M200 547 L990 547" stroke="#9ba9b7" fill="none"/>
+<path d="M200.0 547 L200.0 551" stroke="#9ba9b7" fill="none"/>
+<text x="200.0" y="566" font-size="13" text-anchor="middle" fill="#455468">15:00</text>
+<path d="M358.0 547 L358.0 551" stroke="#9ba9b7" fill="none"/>
+<text x="358.0" y="566" font-size="13" text-anchor="middle" fill="#455468">16:00</text>
+<path d="M516.0 547 L516.0 551" stroke="#9ba9b7" fill="none"/>
+<text x="516.0" y="566" font-size="13" text-anchor="middle" fill="#455468">17:00</text>
+<path d="M674.0 547 L674.0 551" stroke="#9ba9b7" fill="none"/>
+<text x="674.0" y="566" font-size="13" text-anchor="middle" fill="#455468">18:00</text>
+<path d="M832.0 547 L832.0 551" stroke="#9ba9b7" fill="none"/>
+<text x="832.0" y="566" font-size="13" text-anchor="middle" fill="#455468">19:00</text>
+<path d="M990.0 547 L990.0 551" stroke="#9ba9b7" fill="none"/>
+<text x="990.0" y="566" font-size="13" text-anchor="middle" fill="#455468">20:00</text>
+<text x="595.0" y="590" font-size="13" text-anchor="middle" fill="#455468">Elapsed time in first half (mm:ss)</text>
+<rect x="24" y="603" width="14" height="14" fill="#2469ac"/>
+<text x="45" y="615" font-size="13">H  Home team</text>
+<rect x="178" y="603" width="14" height="14" fill="#b43852"/>
+<text x="199" y="615" font-size="13">A  Away team</text>
+<rect x="330" y="603" width="14" height="14" fill="#e8a82f"/>
+<text x="351" y="615" font-size="13">D  Dead ball</text>
+<rect x="467" y="603" width="14" height="14" fill="#bfc6ce"/>
+<text x="488" y="615" font-size="13">X  Unknown / excluded</text>
+</g>
+</svg>
