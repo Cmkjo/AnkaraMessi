@@ -2,45 +2,88 @@
 
 Team members: Matteo Tognetti, Carlo Borghini, Pietro Borracelli and Christian Petani.
 
+Technical report: [Markdown](../docs/AnkaraMessi.md) · [PDF](../docs/AnkaraMessi.pdf)
+
+## Requirements
+
+- **Python 3.11 or newer.** The pinned NumPy 2.4.4 and pandas 3.1.0 do not install on older versions.
+- Verified environment: Python 3.14.3, NumPy 2.4.4, pandas 3.1.0.
+- Inference uses NumPy only. pandas is needed only by the organisers' evaluation scripts.
+
 ## Install and run
 
-Verified environment: Python 3.14.3, NumPy 2.4.4 and pandas 3.1.0. From the repository root:
+From the repository root:
 
     python -m venv .venv
-    source .venv/bin/activate
+    source .venv/bin/activate              # Windows: .venv\Scripts\activate
     python -m pip install -r requirements-ankaramessi.txt
     python -B -m ankaramessi.solution --tactical-dir data/tactical
     python evaluation/validate_submission.py evaluation/results/AnkaraMessi.csv
 
-The input directory must contain BAR-ATH_tactical_atd.xml and BAR-ATH_tactical_atd.txt. The command also accepts an external absolute path. Default output is evaluation/results/AnkaraMessi.csv. The expected file hash is:
+`--tactical-dir` must contain `BAR-ATH_tactical_atd.xml` and `BAR-ATH_tactical_atd.txt` from the
+official data bundle. Absolute paths work too. The default output is
+`evaluation/results/AnkaraMessi.csv`. Use `--output` to write it somewhere else.
+
+The command prints the SHA-256 of the file it wrote. The expected value is:
 
     8d31ea61c78d059de2bff86116ab1692727c30ff5eb588a058ca105d92cdcbdc
 
-Inference interprets the numerical player speeds as m/s following the official data description, while checking the XML structure. File hashes document the audited release export. A different export still needs the same supported layout, channel structure and 25 Hz cadence.
+That hash was obtained from these input files (SHA-256):
 
-## Inspect and reproduce training
+    327e35e32e46a647389b88f883d4f9a2ab931e3e6148aef2fcf8f22b1e93c43a  BAR-ATH_tactical_atd.xml
+    f130e350d2bfdf734b7e32f072931fccc6d015c1e837d082064875fe0a700431  BAR-ATH_tactical_atd.txt
+
+If your input files have different hashes, you have a different export and the output may differ.
+The reader also refuses any export that does not have the expected layout, channels and 25 Hz frame rate.
+
+**Speed units.** The XML labels the speed channel as `kph`, but the official data description
+(DATA.md) states that speeds are in m/s. We follow DATA.md and read the numbers as m/s. In
+`tactical.py` the reader divides by 3.6 and then multiplies by 3.6 again. That round trip is kept
+on purpose, because it reproduces the frozen CSV bit for bit.
+
+## Reproduce the training (optional)
 
     python training/download_dfl.py --output-dir /path/to/DFL
     python training/train.py --dfl-dir /path/to/DFL --output /tmp/refitted_model.json
     python training/validate.py --dfl-dir /path/to/DFL --output /tmp/dfl_validation.json
 
-The fit uses four external DFL games, never the target-game labels. Refit compares every parameter value with the release. Nested LOMO excludes the outer match from every teacher. [Training details](training/README.md)
+The parameters are fitted on four external DFL matches only, never on labels from the target game.
+`train.py` refits them and checks every value against `ankaramessi/model_parameters.json`. In the
+nested leave-one-match-out validation (`validate.py`), the held-out match is excluded from every
+teacher model. Details: [training/README.md](../training/README.md).
 
-Optional PFF transfer check after obtaining authorized data from the provider:
+Optional PFF transfer check, after obtaining authorized data from the provider:
 
     python training/validate_pff.py --pff-dir /path/to/FifaWorldCup --output /tmp/pff_validation.json
 
-PFF is optional for the transfer check. Request access through the provider’s release form, follow its download instructions and retain any terms received during access. Data files are excluded from the repository. [Provider access](https://www.blog.fc.pff.com/blog/pff-fc-release-2022-world-cup-data)
+PFF is used only for this check and is not needed for training or inference. Access is requested
+through the [provider's release announcement](https://www.blog.fc.pff.com/blog/pff-fc-release-2022-world-cup-data).
+No external dataset is included in this repository.
 
-## Documentation and integrity
+## Integrity and documentation
 
-- [English technical report](docs/AnkaraMessi.md)
-- [Release manifest](docs/release_manifest.json)
+- [Release manifest](../docs/release_manifest.json): runtime, input hashes, output hash and source hashes.
+- [Training verification](../docs/training_verification.json): refit and validation results.
 
-    shasum -a 256 -c SHA256SUMS_ANKARAMESSI.txt
+Check every release file against its recorded hash, from the repository root:
 
-The report's public-window figure is included under docs/figures. It contains labels only. To regenerate the local original after inference:
+    shasum -a 256 -c SHA256SUMS_ANKARAMESSI.txt      # macOS
+    sha256sum -c SHA256SUMS_ANKARAMESSI.txt          # Linux
+
+## Figures
+
+`docs/figures/` contains only labels: no tracking coordinates, video or private ground truth.
+
+- `public_window.svg` is the BAR–ATH public-window figure exactly as generated by
+  `tools/plot_public_window.py`, with Italian labels. Its hash is recorded in the release manifest.
+- `public_window_en.svg` is the same figure with the text translated to English, used in the report.
+- `*.pdf` are the same figures converted to PDF for `docs/AnkaraMessi.tex`.
+
+To regenerate the public-window figure after running inference:
 
     python tools/plot_public_window.py --public-gt evaluation/gt/BAR-ATH_possession_gt_public.csv
 
-Commit source, fitted parameters, training recipe and documentation. Keep tracking, video, external datasets, local CSV outputs, caches and logs excluded. Follow the organisers' SUBMISSION.md for the CSV, public repository URL and technical document. Commit and publication remain the team's responsibility.
+## What is not in this repository
+
+Match tracking, video, external datasets, local CSV outputs, caches and logs are excluded on purpose
+(see `.gitignore`). The match data is licensed for the competition only and must not be redistributed.

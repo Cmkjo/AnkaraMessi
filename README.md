@@ -1,3 +1,32 @@
+# AnkaraMessi — More than a Hack 2027 submission
+
+This repository contains **AnkaraMessi**'s submission for Phase 1 (ball possession). It is built on
+the organisers' starter repository, whose original README follows below the line.
+
+| | |
+|---|---|
+| **How to install and run, and reproduce the CSV** | [ankaramessi/README.md](ankaramessi/README.md) |
+| **Technical report** | [docs/AnkaraMessi.md](docs/AnkaraMessi.md) · [PDF](docs/AnkaraMessi.pdf) |
+| **Training on external data** | [training/README.md](training/README.md) |
+| **Integrity** | [SHA256SUMS_ANKARAMESSI.txt](SHA256SUMS_ANKARAMESSI.txt) · [release manifest](docs/release_manifest.json) |
+
+Short version (Python 3.11 or newer, match data unpacked in `data/tactical/`):
+
+```bash
+python -m pip install -r requirements-ankaramessi.txt
+python -B -m ankaramessi.solution --tactical-dir data/tactical
+python evaluation/validate_submission.py evaluation/results/AnkaraMessi.csv
+```
+
+Expected SHA-256 of `evaluation/results/AnkaraMessi.csv`:
+`8d31ea61c78d059de2bff86116ab1692727c30ff5eb588a058ca105d92cdcbdc`
+
+Team: Matteo Tognetti, Carlo Borghini, Pietro Borracelli, Christian Petani.
+
+---
+
+*Original README of the organisers' starter repository:*
+
 # More than a Hack 2027 — Phase 1: Ball Possession
 
 **Organised by [Metrica Sports](https://metrica-sports.com), [FC Barcelona](https://www.fcbarcelona.com)
