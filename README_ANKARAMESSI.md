@@ -1,6 +1,6 @@
 # AnkaraMessi — Reproducible possession inference
 
-Team members: Matteo, Carlo, Pietro and Christian.
+Team members: Matteo Tognetti, Carlo Borghini, Pietro Borracelli and Christian Petani.
 
 ## Install and run
 
