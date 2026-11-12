@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1320 235" role="img" aria-labelledby="title description">
+<title id="title">BAR–ATH · finestra pubblica</title>
+<desc id="description">Due righe per intervallo: riferimento pubblico e predizione AnkaraMessi.</desc>
+<rect width="100%" height="100%" fill="white"/>
+<g font-family="system-ui,sans-serif" fill="#202b38">
+<text x="24" y="33" font-size="24" font-weight="700">BAR–ATH · GT pubblico e AnkaraMessi</text>
+<text x="24" y="57" font-size="13">7.500 frame valutabili · tempo in secondi dal primo frame della finestra</text>
+<text x="24" y="92" font-size="14">GT pubblico</text>
+<rect x="170.0000" y="75" width="24.7893" height="24" fill="#b43852"><title>A · frame 11185–11350</title></rect>
+<rect x="194.7893" y="75" width="30.1653" height="24" fill="#2469ac"><title>H · frame 11351–11552</title></rect>
+<rect x="224.9547" y="75" width="10.6027" height="24" fill="#b43852"><title>A · frame 11553–11623</title></rect>
+<rect x="235.5573" y="75" width="155.4560" height="24" fill="#2469ac"><title>H · frame 11624–12664</title></rect>
+<rect x="391.0133" y="75" width="27.7760" height="24" fill="#b43852"><title>A · frame 12665–12850</title></rect>
+<rect x="418.7893" y="75" width="20.6080" height="24" fill="#e8a82f"><title>D · frame 12851–12988</title></rect>
+<rect x="439.3973" y="75" width="106.7733" height="24" fill="#2469ac"><title>H · frame 12989–13703</title></rect>
+<rect x="546.1707" y="75" width="12.0960" height="24" fill="#b43852"><title>A · frame 13704–13784</title></rect>
+<rect x="558.2667" y="75" width="158.4427" height="24" fill="#2469ac"><title>H · frame 13785–14845</title></rect>
+<rect x="716.7093" y="75" width="74.6667" height="24" fill="#b43852"><title>A · frame 14846–15345</title></rect>
+<rect x="791.3760" y="75" width="2.8373" height="24" fill="#2469ac"><title>H · frame 15346–15364</title></rect>
+<rect x="794.2133" y="75" width="59.8827" height="24" fill="#b43852"><title>A · frame 15365–15765</title></rect>
+<rect x="854.0960" y="75" width="4.9280" height="24" fill="#2469ac"><title>H · frame 15766–15798</title></rect>
+<rect x="859.0240" y="75" width="13.4400" height="24" fill="#b43852"><title>A · frame 15799–15888</title></rect>
+<rect x="872.4640" y="75" width="76.3093" height="24" fill="#e8a82f"><title>D · frame 15889–16399</title></rect>
+<rect x="948.7733" y="75" width="133.3547" height="24" fill="#b43852"><title>A · frame 16400–17292</title></rect>
+<rect x="1082.1280" y="75" width="12.9920" height="24" fill="#2469ac"><title>H · frame 17293–17379</title></rect>
+<rect x="1095.1200" y="75" width="68.3947" height="24" fill="#e8a82f"><title>D · frame 17380–17837</title></rect>
+<rect x="1163.5147" y="75" width="28.2240" height="24" fill="#b43852"><title>A · frame 17838–18026</title></rect>
+<rect x="1191.7387" y="75" width="54.0587" height="24" fill="#e8a82f"><title>D · frame 18027–18388</title></rect>
+<rect x="1245.7973" y="75" width="44.2027" height="24" fill="#2469ac"><title>H · frame 18389–18684</title></rect>
+<text x="24" y="126" font-size="14">AnkaraMessi</text>
+<rect x="170.0000" y="109" width="43.3067" height="24" fill="#b43852"><title>A · frame 11185–11474</title></rect>
+<rect x="213.3067" y="109" width="35.8400" height="24" fill="#2469ac"><title>H · frame 11475–11714</title></rect>
+<rect x="249.1467" y="109" width="12.6933" height="24" fill="#b43852"><title>A · frame 11715–11799</title></rect>
+<rect x="261.8400" y="109" width="124.6933" height="24" fill="#2469ac"><title>H · frame 11800–12634</title></rect>
+<rect x="386.5333" y="109" width="18.6667" height="24" fill="#b43852"><title>A · frame 12635–12759</title></rect>
+<rect x="405.2000" y="109" width="17.9200" height="24" fill="#2469ac"><title>H · frame 12760–12879</title></rect>
+<rect x="423.1200" y="109" width="14.9333" height="24" fill="#e8a82f"><title>D · frame 12880–12979</title></rect>
+<rect x="438.0533" y="109" width="102.2933" height="24" fill="#2469ac"><title>H · frame 12980–13664</title></rect>
+<rect x="540.3467" y="109" width="21.6533" height="24" fill="#b43852"><title>A · frame 13665–13809</title></rect>
+<rect x="562.0000" y="109" width="155.3067" height="24" fill="#2469ac"><title>H · frame 13810–14849</title></rect>
+<rect x="717.3067" y="109" width="119.4667" height="24" fill="#b43852"><title>A · frame 14850–15649</title></rect>
+<rect x="836.7733" y="109" width="11.2000" height="24" fill="#2469ac"><title>H · frame 15650–15724</title></rect>
+<rect x="847.9733" y="109" width="20.9067" height="24" fill="#b43852"><title>A · frame 15725–15864</title></rect>
+<rect x="868.8800" y="109" width="62.7200" height="24" fill="#2469ac"><title>H · frame 15865–16284</title></rect>
+<rect x="931.6000" y="109" width="141.8667" height="24" fill="#b43852"><title>A · frame 16285–17234</title></rect>
+<rect x="1073.4667" y="109" width="21.6533" height="24" fill="#2469ac"><title>H · frame 17235–17379</title></rect>
+<rect x="1095.1200" y="109" width="11.9467" height="24" fill="#b43852"><title>A · frame 17380–17459</title></rect>
+<rect x="1107.0667" y="109" width="55.2533" height="24" fill="#e8a82f"><title>D · frame 17460–17829</title></rect>
+<rect x="1162.3200" y="109" width="26.8800" height="24" fill="#b43852"><title>A · frame 17830–18009</title></rect>
+<rect x="1189.2000" y="109" width="100.8000" height="24" fill="#2469ac"><title>H · frame 18010–18684</title></rect>
+<text x="170.00" y="157" font-size="12" text-anchor="middle">0</text>
+<text x="394.00" y="157" font-size="12" text-anchor="middle">60</text>
+<text x="618.00" y="157" font-size="12" text-anchor="middle">120</text>
+<text x="842.00" y="157" font-size="12" text-anchor="middle">180</text>
+<text x="1066.00" y="157" font-size="12" text-anchor="middle">240</text>
+<text x="1290.00" y="157" font-size="12" text-anchor="middle">300</text>
+<rect x="24" y="205" width="16" height="16" fill="#2469ac"/><text x="47" y="218" font-size="13">H · Barcelona</text>
+<rect x="259" y="205" width="16" height="16" fill="#b43852"/><text x="282" y="218" font-size="13">A · Athletic Club</text>
+<rect x="494" y="205" width="16" height="16" fill="#e8a82f"/><text x="517" y="218" font-size="13">D · palla morta</text>
+<rect x="729" y="205" width="16" height="16" fill="#bfc6ce"/><text x="752" y="218" font-size="13">X · astensione</text>
+</g></svg>

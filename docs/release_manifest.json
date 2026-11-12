@@ -1,0 +1,84 @@
+{
+  "profile": "Team Local",
+  "fit_matches": [
+    "J03WOH",
+    "J03WOY",
+    "J03WPY",
+    "J03WQQ"
+  ],
+  "fit_source": "External DFL only; development leave-one-match-out; final fit on four matches",
+  "runtime": {
+    "python": "3.14.3",
+    "numpy": "2.4.4",
+    "pandas_evaluation": "3.1.0"
+  },
+  "input_sha256": {
+    "BAR-ATH_tactical_atd.xml": "327e35e32e46a647389b88f883d4f9a2ab931e3e6148aef2fcf8f22b1e93c43a",
+    "BAR-ATH_tactical_atd.txt": "f130e350d2bfdf734b7e32f072931fccc6d015c1e837d082064875fe0a700431"
+  },
+  "prediction_sha256": "8d31ea61c78d059de2bff86116ab1692727c30ff5eb588a058ca105d92cdcbdc",
+  "rows": 199319,
+  "label_counts": {
+    "H": 60780,
+    "A": 43460,
+    "D": 54617,
+    "X": 40462
+  },
+  "exact_frozen_prediction": true,
+  "public_gt_sha256": "e596a9af9626c623bb94be6fd350e12ee9a75c76a696cfadca3bc01735e92487",
+  "public_diagnostic": {
+    "spell_f1": 0.5142857142857142,
+    "macro_f1": 0.7079031738790865,
+    "n_reference_spells": 17,
+    "n_predicted_spells": 18,
+    "n_graded": 7500
+  },
+  "public_graph_sha256": "a2eace9eefc5cd3421fc238433619ff7bbd2b3a766b57b5f51639ee4d96f2529",
+  "source_sha256": {
+    "ankaramessi/__init__.py": "b0bbf0e577fcd5840ad0999701e4e39145b5d71a8f21e19d85df71c392dcbd0e",
+    "ankaramessi/context.py": "48297f3a2b8332cf8557d44d4f94739eff25d364724603587038ad757d08e5c0",
+    "ankaramessi/geometry.py": "771dcf11aef47bc62d43914b18cbd8ff900073f8f0ae8906e36064e582f9e0c6",
+    "ankaramessi/hmm.py": "a32301e4d8cd73db4f91a106d388ea3f86ed693e149a88a2548f0a4a14fb2e36",
+    "ankaramessi/kinematics.py": "2ba09e6aefe907e609cbf2a1a5ddae67b41295dc23a5d1ec5e99fa25d2fecf2f",
+    "ankaramessi/model_parameters.json": "a1c9a0baf47e05827006407e7027468b71ca70d602e766a0e1dda9d9199f668a",
+    "ankaramessi/ownership.py": "a54a9a04b371b2fd6b611fb4c389b4db4ec502f84ddc5160dc96cc1b2312e2a4",
+    "ankaramessi/residual.py": "9178c3ad52ebfa2fb500508c21c04fa61cffb44cbf8c531822f8ff40eeda735a",
+    "ankaramessi/segments.py": "f38950a9ba5b665c11eef4f761086db8cdc91706473580a8c9cbf824e6e426f2",
+    "ankaramessi/solution.py": "741e9cc32e1f68048a1ff526e88a5eedf6d5709246a9a8e52fffeab9b3e303ec",
+    "ankaramessi/tactical.py": "c595d18ace03dd0b220dbc39b198cef398558d26b7b56f5e4d3f6eb45dacb5f4",
+    "ankaramessi/tracking.py": "3fb20392f2ff9e660b2e54b8e1b1785768c0fd9d728e11ecdd89b83ecf8eb95a",
+    "requirements-ankaramessi.txt": "03f97d2229c597cb9d38e97dc552f9abf110a964901f467985a2c19d09c6c15d",
+    "tools/plot_public_window.py": "782f1630dd3c9e982801f493afba8b9ba49db198ca4ca31e53ffb709d19686b8",
+    "training/core/contrast_model.py": "97b575454ff6e318d926a36e074e0447d822aa992458837695a97c6dbe8609c2",
+    "training/core/dfl.py": "2a22a9fc8a27dddbeb8db582739fcc9bb532a966d0da95d488728a45d96c50e7",
+    "training/core/external_context.py": "78ea497424d45cd6fded4789c30bf5486a5eff0a24393c7a67b772c83bd7651e",
+    "training/core/heuristic_post.py": "34f00e1f3f4889670b64ce6430d0ed8b3e0983f063bfd3a4a011037442640285",
+    "training/core/joint_model.py": "fffd8c48c9940551c2177aeef146db9333ccb665a59898fc9fb485203cec0869",
+    "training/core/local_possession.py": "9bfe675d7abc8a901453951de84343bc8dc1e39d591e5acc10da9db000f849bd",
+    "training/core/model.py": "314e128bf6b51814e8bf3c3e4ad8934a9218fd87f28acce297bda0a2803f6bac",
+    "training/core/motion_model.py": "01277cfbf49f9353d0e176492736d378308729870be611f27b34d56a85d28ffc",
+    "training/core/normalized_model.py": "a5012de52fac7f9c94e9426316005ee6fe4b588c2504c18b6d546714b4be654e",
+    "training/core/pff_reader.py": "e6d56632f813c12e1d3e0f3f0bdf630612b2ff262f4652d55d4924c483783774",
+    "training/core/pff_smoothed.py": "d5b212093809ce6e1143f61d321cbc2ca9e1a87711bddf8f8ef2d9ad1514e110",
+    "training/core/segment_boundaries.py": "11e062d0a7f7df2be4ab671da3a1ab43ed5a53bb4c1bcd4bfde3465a7d1dd25c",
+    "training/download_dfl.py": "1e30c52ae78cdb877e9f51bb49127a27fdd9342a94867e0e2bb54722b0a6c04b",
+    "training/recipe.json": "bd6ba83064ad2fc9135fc422250283effface87e0cb82593b791bb2dc1cec5d6",
+    "training/train.py": "40c3bb2bfc02707719740d686fadb7243bcc12d95a484718328bf958ad4e1c25",
+    "training/validate.py": "e385a4970f7758b4042b95a59f3233da5aef8e09335246478ecc8364e7704f99",
+    "training/validate_pff.py": "25fd6b680eee9aa892ecb39da0700f51cc88062b662c11da3db8ffde8ca51930"
+  },
+  "team_members": [
+    "Matteo",
+    "Carlo",
+    "Pietro",
+    "Christian"
+  ],
+  "unit_policy": "m/s per official data description; hashes retained for integrity, no match-hash inference gate",
+  "training_reproduction": "training/train.py reconstructs all distributed parameter values exactly",
+  "verification": {
+    "external_refit_values_exact": true,
+    "nested_DFL_predictions_exact": 32,
+    "inference_sha256": "8d31ea61c78d059de2bff86116ab1692727c30ff5eb588a058ca105d92cdcbdc",
+    "PFF_predictions_exact": 10
+  }
+}
